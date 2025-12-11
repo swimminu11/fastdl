@@ -1,0 +1,31 @@
+﻿[en]
+CHAT_IMUNN = !g[ZM-LVE] !yPlayer !t[%s] !yhas an immune
+CHAT_GRAB = !g[ZM-LVE] !yOWNER !t[%s] !ytook you by a rock
+CHAT_PLGRAB = !g[ZM-LVE] !yYou have taken !t[%s]
+CHAT_ALLGRAB = !g[ZM-LVE] !yOWNER !t[%s] !yrobbed weapons
+CHAT_YESGRAB = !g[ZM-LVE] !yThis player has already been robbed
+CHAT_NOACC = !g[ZM-LVE] !yYou are not !t[OWNER] !y| Buy here Youtuber 
+CHAT_NOWORK = !g[ZM-LVE] !yYou have not enabled the grab
+CHAT_ERROR = !g[ZM-LVE] !yError, player not found.
+CHAT_ME = !g[ZM-LVE] !yIssuing to yourself is prohibited.
+CHAT_GIVEACCESS = !g[ZM-LVE] !yOWNER !t[%s] !yissued !g[Grab] !yplayer !t[%s]
+CHAT_REMOVEACCESS = !g[ZM-LVE] !yOWNER !t[%s] !yselected !g[Grab] !yplayer !t[%s]
+CHAT_LIMITED = !g[ZM-LVE] !yMax. 2 times per card
+CHAT_HAVE = !g[ZM-LVE] !yPlayer already has a Grab
+CHAT_NO = !g[ZM-LVE] !yPlayer does not have a robbery
+
+[en]
+CHAT_IMUNN = !g[ZM-LVE] !yPlayer !t[%s] !yhas an immune
+CHAT_GRAB = !g[ZM-LVE] !yOWNER !t[%s] !ytook you by a rock
+CHAT_PLGRAB = !g[ZM-LVE] !yYou have taken !t[%s]
+CHAT_ALLGRAB = !g[ZM-LVE] !yOWNER !t[%s] !yrobbed weapons
+CHAT_YESGRAB = !g[ZM-LVE] !yThis player has already been robbed
+CHAT_NOACC = !g[ZM-LVE] !yYou are not !t[OWNER] !y| Buy here Youtuber 
+CHAT_NOWORK = !g[ZM-LVE] !yYou have not enabled the grab
+CHAT_ERROR = !g[ZM-LVE] !yError, player not found.
+CHAT_ME = !g[ZM-LVE] !yIssuing to yourself is prohibited.
+CHAT_GIVEACCESS = !g[ZM-LVE] !yOWNER !t[%s] !yissued !g[Grab] !yplayer !t[%s]
+CHAT_REMOVEACCESS = !g[ZM-LVE] !yOWNER !t[%s] !yselected !g[Grab] !yplayer !t[%s]
+CHAT_LIMITED = !g[ZM-LVE] !yMax. 2 times per card
+CHAT_HAVE = !g[ZM-LVE] !yPlayer already has a Grab
+CHAT_NO = !g[ZM-LVE] !yPlayer does not have a robbery

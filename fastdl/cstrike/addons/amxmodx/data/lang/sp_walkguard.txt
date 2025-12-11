@@ -1,0 +1,80 @@
+﻿[en]
+WALKGUARD_KILL_MESSAGE = You are signed in to a zone labeled Chit Zone
+WALKGUARD_CAMPING_INIT = -= Camper zone seconds passed=-
+WALKGUARD_CAMPING_DAMG = -= camper zone you will get at damage =-
+WALKGUARD_CAMPING_TIME = -= Camper zone - %i seconds remaining=-
+ZONE_FILE_SAVED = zone file is stored in '%s'
+ZONE_FULL = zones full, move old or unused zones
+WGM_ZONE_FOUND = %s^n%i zones found
+WGM_ZONE_CURRENT_CAMP = %s (current %i -> '\d%s\w' [corruption after '\d%i\w' seconds])
+WGM_ZONE_CURRENT_NONE = %s (current %i -> '\d%s\w')
+WGM_ZONE_EDIT = %s^n1 - Edit zone
+WGM_ZONE_CHANGE = %s^n 2 <- Previous. 3 -> footprint.
+WGM_ZONE_CREATE = %s^n4 - Create a new zone
+WGM_ZONE_DELETE = %s^n6 - \rremove\w current zone
+WGM_ZONE_SAVE = %s^n9 - Save all zones
+WGM_ZONE_EXIT = %s^n0 - Exit
+WGE_ZONE_CURRENT_CAMP = %s^n1 - Change zone properties -> '\d%s\w', damage after '\d%i\w' seconds
+WGE_ZONE_CURRENT_NONE = %s^n1 - Change zone properties -> '\d%s\w'
+WGE_ZONE_CURRENT_CHANGE = %s^n 2 <- less than 3 -> greater
+WGE_ZONE_SIZE_INIT = %s^n4 - Resize to '\d%s\w'
+WGE_ZONE_SIZE_MINS = %s^n \r5 <- already 6 ->wider\w
+WGE_ZONE_SIZE_MAXS = %s^n \y7 <- already 8 -> wider\w
+WGE_ZONE_SIZE_STEP = %s^n 9 - increment \d%i\w junites
+WGE_ZONE_SIZE_QUIT = %s^n0 - Back
+TRANSLATE_X_KOORD = x coordinates
+TRANSLATE_Y_KOORD = y-coordinates
+TRANSLATE_Z_KOORD = z coordinates
+ZONE_MODE_NONE = no function
+ZONE_MODE_CAMPER = Camper Zone
+ZONE_MODE_CAMPER_T1 = Camper zone for command 1 (eg: terrorists)
+ZONE_MODE_CAMPER_T2 = Camper zone for command 2 (eg: special forces)
+ZONE_MODE_BLOCKING = block all users
+ZONE_MODE_CHEATER = Readerzone, kill
+ZONE_MODE_CHEATER_T1 = Readerzone (Command 1 [W: terrorists]), kill
+ZONE_MODE_CHEATER_T2 = cheater-zone (command 2 [p: special forces]), kill
+ZONE_KILL_INIT = \yWarning!\w Do you want to delete the current zone?
+ZONE_KILL_ASK = %s^n^n^n1 - No^n^n0 - \rYes, Delete\w
+ZONE_KILL_YES = zone deleted
+ZONE_KILL_NO = zone NOT deleted
+
+[en]
+WALKGUARD_KILL_MESSAGE = You are signed in to a zone labeled Chit Zone
+WALKGUARD_CAMPING_INIT = -= Camper zone seconds passed=-
+WALKGUARD_CAMPING_DAMG = -= camper zone you will get at damage =-
+WALKGUARD_CAMPING_TIME = -= Camper zone - %i seconds remaining=-
+ZONE_FILE_SAVED = zone file is stored in '%s'
+ZONE_FULL = zones full, move old or unused zones
+WGM_ZONE_FOUND = %s^n%i zones found
+WGM_ZONE_CURRENT_CAMP = %s (current %i -> '\d%s\w' [corruption after '\d%i\w' seconds])
+WGM_ZONE_CURRENT_NONE = %s (current %i -> '\d%s\w')
+WGM_ZONE_EDIT = %s^n1 - Edit zone
+WGM_ZONE_CHANGE = %s^n 2 <- Previous. 3 -> footprint.
+WGM_ZONE_CREATE = %s^n4 - Create a new zone
+WGM_ZONE_DELETE = %s^n6 - \rremove\w current zone
+WGM_ZONE_SAVE = %s^n9 - Save all zones
+WGM_ZONE_EXIT = %s^n0 - Exit
+WGE_ZONE_CURRENT_CAMP = %s^n1 - Change zone properties -> '\d%s\w', damage after '\d%i\w' seconds
+WGE_ZONE_CURRENT_NONE = %s^n1 - Change zone properties -> '\d%s\w'
+WGE_ZONE_CURRENT_CHANGE = %s^n 2 <- less than 3 -> greater
+WGE_ZONE_SIZE_INIT = %s^n4 - Resize to '\d%s\w'
+WGE_ZONE_SIZE_MINS = %s^n \r5 <- already 6 ->wider\w
+WGE_ZONE_SIZE_MAXS = %s^n \y7 <- already 8 -> wider\w
+WGE_ZONE_SIZE_STEP = %s^n 9 - increment \d%i\w junites
+WGE_ZONE_SIZE_QUIT = %s^n0 - Back
+TRANSLATE_X_KOORD = x coordinates
+TRANSLATE_Y_KOORD = y-coordinates
+TRANSLATE_Z_KOORD = z coordinates
+ZONE_MODE_NONE = no function
+ZONE_MODE_CAMPER = Camper Zone
+ZONE_MODE_CAMPER_T1 = Camper zone for command 1 (eg: terrorists)
+ZONE_MODE_CAMPER_T2 = Camper zone for command 2 (eg: special forces)
+ZONE_MODE_BLOCKING = block all users
+ZONE_MODE_CHEATER = Readerzone, kill
+ZONE_MODE_CHEATER_T1 = Readerzone (Command 1 [W: terrorists]), kill
+ZONE_MODE_CHEATER_T2 = cheater-zone (command 2 [p: special forces]), kill
+ZONE_KILL_INIT = \yWarning!\w Do you want to delete the current zone?
+ZONE_KILL_ASK = %s^n^n^n1 - No^n^n0 - \rYes, Delete\w
+ZONE_KILL_YES = zone deleted
+ZONE_KILL_NO = zone NOT deleted
+

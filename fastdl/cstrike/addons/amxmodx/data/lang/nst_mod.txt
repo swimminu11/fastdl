@@ -1,0 +1,30 @@
+[en]
+NOTICE_HELP_CHOOSEMOD = Press >x04P>x01 Button To Choose Player
+NOTICE_HELP_CHOOSEBOT = Press >x04I>x01 Button To Make Custom Bot
+NOTICE_CHOOSEMOD_COMPLETE = Select [%s] Please Quit And Turned Back into The Game To Activate that Mode
+NOTICE_CHOOSEBOT_COMPLETE = [%s] Please Quit And Turned Back Into The Game To Activate The Bot
+
+MENUBOT_TITLE = Bot Managent
+MENUBOT_ITEM_ADD = Quick Add 1 Bot
+MENUBOT_ITEM_ADD_TE = Add 1 Terrorist
+MENUBOT_ITEM_ADD_CT = Add 1 Counter Terrorist
+MENUBOT_ITEM_KILL = Kill All Bot
+MENUBOT_ITEM_KICK = Kick All Bot
+MENUBOT_ITEM_QUOTA = Add %i Bot
+
+MENUMOD_TITLE = Select Game Mode
+MENUMOD_ITEM_DEFAULT = Normal
+MENUMOD_ITEM_SINGLE = Single Match
+MENUMOD_ITEM_TEAM = Team Match
+MENUMOD_ITEM_ZP = Zombie Plague
+MENUMOD_ITEM_NSTZB3 = Zombie Mod3
+MENUMOD_ITEM_NSTZBU = Zombie United
+MENUMOD_ITEM_NSTZBS = Zombie Scenario
+MENUMOD_ITEM_GHOST = Ghost Match
+MENUMOD_ITEM_PODBOT = Use PODBot
+MENUMOD_ITEM_ZBOT = Use ZBot
+MENUMOD_ITEM_YAPBOT = Use YaPBot
+
+
+
+

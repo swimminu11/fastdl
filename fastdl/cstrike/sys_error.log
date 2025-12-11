@@ -1,0 +1,17 @@
+L 11/12/2025 - 15:06:04: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/12/2025 - 16:01:28: (map "de_airstrip") Host_Error: ED_ParseEdict: Model '*128' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 11/12/2025 - 16:11:27: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:16:23: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:20:23: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:23:20: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:40:04: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:40:11: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:40:25: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:40:30: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:40:36: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:44:25: (map "de_dust2") Mod_LoadModel: models/frostnova.mdl not found
+L 11/12/2025 - 16:46:21: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/12/2025 - 16:46:22: (map "de_dust2") Mod_LoadBrushModel_internal: models/frostnova.mdl has wrong version number (0 should be 30)
+L 11/12/2025 - 17:03:31: (map "de_dust2") Mod_LoadModel: models/player/Umbrella/Umbrella.mdl not found

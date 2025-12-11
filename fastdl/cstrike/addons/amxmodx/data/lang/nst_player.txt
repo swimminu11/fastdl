@@ -1,0 +1,8 @@
+[en]
+NOTICE_HELP_CHOOSE = Choose Characters
+NOTICE_CHOOSE_COMPLETE = You Selected Character >x03%s
+MENUPLAYER_TITLE = Select Character
+MENUTEAM_TITLE = Choose Team
+MENUTEAM_ITEM_TE = Terrorist
+MENUTEAM_ITEM_CT = Counter Terrorist
+

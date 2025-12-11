@@ -1,0 +1,6 @@
+﻿[en]
+HUD_EVENT = Wait...Night will come soon
+
+[en]
+HUD_EVENT = Wait...Night will come soon
+

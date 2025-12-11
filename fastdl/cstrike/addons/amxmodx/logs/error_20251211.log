@@ -1,0 +1,687 @@
+L 12/11/2025 - 16:40:10: Start of error session.
+L 12/11/2025 - 16:40:10: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:40:10: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:40:10: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:10: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:40:10: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:10: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:40:10: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:10: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: Function "give_item" was not found
+L 12/11/2025 - 16:40:10: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:10: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:40:10: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:10: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:40:10: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:10: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: Start of error session.
+L 12/11/2025 - 16:40:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:40:24: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:40:24: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:24: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:40:24: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:24: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:40:24: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:24: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: Function "give_item" was not found
+L 12/11/2025 - 16:40:24: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:24: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:40:24: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:24: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:40:24: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:24: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: Start of error session.
+L 12/11/2025 - 16:40:28: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:40:28: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:40:28: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:28: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:40:28: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:28: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:40:28: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:28: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:28: Function "give_item" was not found
+L 12/11/2025 - 16:40:28: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:29: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:29: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:40:29: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:29: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:29: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:40:29: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:29: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: Start of error session.
+L 12/11/2025 - 16:40:33: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:40:33: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:40:33: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:33: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:40:33: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:33: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:40:33: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:33: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: Function "give_item" was not found
+L 12/11/2025 - 16:40:33: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:33: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:40:33: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:33: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:40:33: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:40:33: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: Start of error session.
+L 12/11/2025 - 16:44:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:44:07: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:44:07: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:44:07: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:44:07: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:44:07: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:44:07: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:44:07: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: Function "give_item" was not found
+L 12/11/2025 - 16:44:07: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:44:07: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:44:07: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:44:07: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:44:07: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:44:07: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: Start of error session.
+L 12/11/2025 - 16:45:16: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:45:16: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:45:16: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:45:16: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:45:16: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:45:16: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:45:16: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:45:16: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: Function "give_item" was not found
+L 12/11/2025 - 16:45:16: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:45:16: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:45:16: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:45:16: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:45:16: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:45:16: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: Start of error session.
+L 12/11/2025 - 16:46:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:46:25: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:46:25: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:25: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:46:25: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:25: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:46:25: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:25: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: Function "give_item" was not found
+L 12/11/2025 - 16:46:25: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:25: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:46:25: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:25: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:46:25: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:25: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:26: Function "give_item" was not found
+L 12/11/2025 - 16:46:26: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:28: Function "Get_LightSaber" was not found
+L 12/11/2025 - 16:46:28: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:28: Function "Get_Thanatos9" was not found
+L 12/11/2025 - 16:46:28: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:28: Function "Get_BWGlock" was not found
+L 12/11/2025 - 16:46:28: [AMXX] Run time error 19 (plugin "CSO_BattleWeapon-Glock18.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:28: Function "Get_DartPistol" was not found
+L 12/11/2025 - 16:46:28: [AMXX] Run time error 19 (plugin "CSO_DartPistol.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:28: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:46:28: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Base" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "Dual_Uzi.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Base" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_M16A4.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Weapon" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_Vandita.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Thanatos7" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_Thanatos-7.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Thunderbolt" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "Thunderbolt2014.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Balrog11" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "balrog11.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Guillotine" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_Guillotine.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Base" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "AK47_Paladin.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Janus3" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_Janus3.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Ethereal" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_Ethereal.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Thanatos11" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_Thanatos11.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_Plasma" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_PlasmaGun.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "give_spmg" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "normal_aeolis.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "Get_BlockAR" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "CSO_BrickPeaceV2.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "give_weapon" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "weapon_buffsg552ex.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "get_holybomb" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "holybomb.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "get_m24gre" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "M24_Grenade.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:46:29: Function "get_holybomb" was not found
+L 12/11/2025 - 16:46:29: [AMXX] Run time error 19 (plugin "FireBomb.amxx") - debug not enabled!
+L 12/11/2025 - 16:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:25: Start of error session.
+L 12/11/2025 - 16:48:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:48:25: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:48:25: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:25: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:25: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:48:25: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:25: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:25: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:48:25: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: Function "give_item" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: Function "give_item" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_LightSaber" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Thanatos9" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_BWGlock" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_BattleWeapon-Glock18.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_DartPistol" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_DartPistol.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Base" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "Dual_Uzi.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Base" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_M16A4.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Weapon" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_Vandita.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Thanatos7" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_Thanatos-7.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Thunderbolt" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "Thunderbolt2014.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Balrog11" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "balrog11.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:26: Function "Get_Guillotine" was not found
+L 12/11/2025 - 16:48:26: [AMXX] Run time error 19 (plugin "CSO_Guillotine.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "Get_Base" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "AK47_Paladin.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "Get_Janus3" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "CSO_Janus3.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "Get_Ethereal" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "CSO_Ethereal.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "Get_Thanatos11" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "CSO_Thanatos11.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "Get_Plasma" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "CSO_PlasmaGun.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "give_spmg" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "normal_aeolis.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "Get_BlockAR" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "CSO_BrickPeaceV2.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "give_weapon" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "weapon_buffsg552ex.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "get_holybomb" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "holybomb.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "get_m24gre" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "M24_Grenade.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:48:27: Function "get_holybomb" was not found
+L 12/11/2025 - 16:48:27: [AMXX] Run time error 19 (plugin "FireBomb.amxx") - debug not enabled!
+L 12/11/2025 - 16:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:19: Start of error session.
+L 12/11/2025 - 16:49:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 16:49:19: Function "native_set_user_save" was not found
+L 12/11/2025 - 16:49:19: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:19: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:19: Function "native_load_power_one" was not found
+L 12/11/2025 - 16:49:19: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:19: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:19: Function "__fm_set_model" was not found
+L 12/11/2025 - 16:49:19: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:19: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: Function "give_item" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: Function "give_item" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_LightSaber" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Thanatos9" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_BWGlock" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_BattleWeapon-Glock18.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_DartPistol" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_DartPistol.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Base" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "Dual_Uzi.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Base" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_M16A4.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Weapon" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_Vandita.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Thanatos7" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_Thanatos-7.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Thunderbolt" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "Thunderbolt2014.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Balrog11" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "balrog11.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Guillotine" was not found
+L 12/11/2025 - 16:49:20: [AMXX] Run time error 19 (plugin "CSO_Guillotine.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:20: Function "Get_Base" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "AK47_Paladin.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "Get_Janus3" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "CSO_Janus3.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "Get_Ethereal" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "CSO_Ethereal.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "Get_Thanatos11" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "CSO_Thanatos11.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "Get_Plasma" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "CSO_PlasmaGun.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "give_spmg" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "normal_aeolis.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "get_my_buffm3" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "Get_BlockAR" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "CSO_BrickPeaceV2.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "give_weapon" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "weapon_buffsg552ex.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "get_holybomb" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "holybomb.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "get_m24gre" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "M24_Grenade.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 16:49:21: Function "get_holybomb" was not found
+L 12/11/2025 - 16:49:21: [AMXX] Run time error 19 (plugin "FireBomb.amxx") - debug not enabled!
+L 12/11/2025 - 16:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:36: Start of error session.
+L 12/11/2025 - 17:00:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 17:00:36: Function "native_set_user_save" was not found
+L 12/11/2025 - 17:00:36: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:36: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:36: Function "native_load_power_one" was not found
+L 12/11/2025 - 17:00:36: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:37: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: Function "__fm_set_model" was not found
+L 12/11/2025 - 17:00:37: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:37: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: Function "give_item" was not found
+L 12/11/2025 - 17:00:37: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:37: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 17:00:37: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:37: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: Function "get_my_buffm3" was not found
+L 12/11/2025 - 17:00:37: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:37: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: Function "give_item" was not found
+L 12/11/2025 - 17:00:37: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_LightSaber" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Thanatos9" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_BWGlock" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_BattleWeapon-Glock18.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_DartPistol" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_DartPistol.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Base" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "Dual_Uzi.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Base" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_M16A4.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Weapon" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Vandita.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Thanatos7" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Thanatos-7.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Thunderbolt" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "Thunderbolt2014.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Balrog11" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "balrog11.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Guillotine" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Guillotine.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Base" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "AK47_Paladin.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Janus3" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Janus3.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Ethereal" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Ethereal.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Thanatos11" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_Thanatos11.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_Plasma" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_PlasmaGun.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "give_spmg" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "normal_aeolis.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "get_my_buffm3" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "Get_BlockAR" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "CSO_BrickPeaceV2.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "give_weapon" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "weapon_buffsg552ex.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "get_holybomb" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "holybomb.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "get_m24gre" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "M24_Grenade.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:00:38: Function "get_holybomb" was not found
+L 12/11/2025 - 17:00:38: [AMXX] Run time error 19 (plugin "FireBomb.amxx") - debug not enabled!
+L 12/11/2025 - 17:00:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: Start of error session.
+L 12/11/2025 - 17:03:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 17:03:26: Function "native_set_user_save" was not found
+L 12/11/2025 - 17:03:26: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: Function "native_load_power_one" was not found
+L 12/11/2025 - 17:03:26: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: Function "__fm_set_model" was not found
+L 12/11/2025 - 17:03:26: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: Function "give_item" was not found
+L 12/11/2025 - 17:03:26: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 17:03:26: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: Function "get_my_buffm3" was not found
+L 12/11/2025 - 17:03:26: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:03:26: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Start of error session.
+L 12/11/2025 - 17:05:32: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251211.log")
+L 12/11/2025 - 17:05:32: Function "native_set_user_save" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:32: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Function "native_load_power_one" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:32: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Function "__fm_set_model" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:32: [AMXX] Run time error -1 (plugin "umbrella_swarmNEW.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Function "give_item" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:32: [AMXX] Run time error -1 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:32: [AMXX] Run time error -1 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Function "get_my_buffm3" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:32: [AMXX] Run time error -1 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: Function "give_item" was not found
+L 12/11/2025 - 17:05:32: [AMXX] Run time error 19 (plugin "cso_bloodhunter_native.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_LightSaber" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Thanatos9" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_BWGlock" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_BattleWeapon-Glock18.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_DartPistol" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_DartPistol.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Buy_Firecracker" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "Firecracker.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Base" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "Dual_Uzi.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Base" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_M16A4.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Weapon" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Vandita.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Thanatos7" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Thanatos-7.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Thunderbolt" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "Thunderbolt2014.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Balrog11" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "balrog11.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Guillotine" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Guillotine.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Base" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "AK47_Paladin.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Janus3" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Janus3.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Ethereal" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Ethereal.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Thanatos11" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_Thanatos11.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_Plasma" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_PlasmaGun.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "give_spmg" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "normal_aeolis.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "get_my_buffm3" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "m3_dragon.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "Get_BlockAR" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "CSO_BrickPeaceV2.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "give_weapon" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "weapon_buffsg552ex.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "get_holybomb" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "holybomb.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "get_m24gre" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "M24_Grenade.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/11/2025 - 17:05:33: Function "get_holybomb" was not found
+L 12/11/2025 - 17:05:33: [AMXX] Run time error 19 (plugin "FireBomb.amxx") - debug not enabled!
+L 12/11/2025 - 17:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

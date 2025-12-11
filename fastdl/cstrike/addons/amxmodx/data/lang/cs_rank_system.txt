@@ -1,0 +1,12 @@
+[en]
+MSG_NORMAL_KILL = !yYou got !t+1 XP !yfor killing !g%s.
+MSG_HEADSHOT_KILL = !yYou got !t+3 XP !yfor killing !g%s !ywith !tHEADSHOT.
+MSG_KNIFE_KILL = !yYou got !t+5 XP !yfor killing !g%s !ywith !tKNIFE.
+MSG_KNIFE_HEAD_KILL = !yYou got !t+7 XP !yfor raping !g%s !ywith !tKNIFE+HEADSHOT.
+MSG_GRENADE_KILL = !yYou got !t+5 XP !yfor killing !g%s !ywith !tGRENADE.
+MSG_SUICIDE = !yYou lost !t-2 XP !yfor !tSUICIDING.
+MSG_TEAM_KILL = !yYou lost !t-10 XP !yfor !tTEAM KILLING.
+MSG_MAXLVL_ID = !tCongratulations! !yYour have reached the !tmaximum level. !gLevel maximum: !t%s!y.
+MSG_MAXLVL_ALL = !yCongratulations !t%s !yfor reaching the !tmaximum level. !gLevel maximum: !t%s!y.
+MSG_RAISE_LEVEL_ID = !yCongratulations! You won !t$%d !yfor !graising a level.
+MSG_RAISE_LEVEL_ALL = !t%s !yhas won !t$%d !ymoney for !graising a level.

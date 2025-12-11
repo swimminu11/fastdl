@@ -1,0 +1,19 @@
+﻿[en]
+TR_TITLE = \wNPC Setup^nQuantity: \y%i\w.^n^n
+TR_ADD = \r1. \wAdd^n
+TR_DELETE = \r2. \ wDelete^n^n
+TR_SAVE = \r4. \ySave^n
+TR_DELETE_ALL = \r5. \yDelete all^n^n
+TR_EXIT = ^n\r 0. \wExit
+
+TR_ALL_SAVED = All trees (%i) are saved to file:'%s'
+TR_ALL_REMOVED = All trees have been deleted!
+GRUPPA = Youtuber
+
+[en]
+TR_TITLE = \wNPC Setup^nQuantity: \y%i\w.^n^n
+TR_ADD = \r1. \wAdd^n
+TR_DELETE = \r2. \ wDelete^n^n
+TR_SAVE = \r4. \ySave^n
+TR_DELETE_ALL = \r5. \yDelete all^n^n
+TR_EXIT = ^n\r 0. \wExit!

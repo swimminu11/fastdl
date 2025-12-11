@@ -1,0 +1,66 @@
+[en]
+NANO_LOWRES_ON = Lowresources have been activated
+NANO_LOWRES_OFF = Lowresources have been dezactivated
+NANO_ENERGY = %sResistance: (%d%%)
+NANO_POINTS = %s 
+NANO_STR = -= Maximum Strength =-
+NANO_ARM = -= Maximum Armor =-
+NANO_SPD = -= Maximum Speed =-
+NANO_CLO = -= Cloak Engaged =-
+NANO_CRITIC = -= Armor Critical =-
+NANO_ST_MODE = Heavy
+NANO_A_MODE = Maximum
+NANO_S_MODE = Light
+NANO_C_MODE = Very Light
+NANO_MODE = Juggernaut Suit:
+NANO_SPD_ST = %s 
+NANO_SPD_VS = %s 
+NANO_SPD_SL = %s 
+NANO_SPD_NO = %s 
+NANO_SPD_FA = %s 
+NANO_MENU = -= Juggernaut =-
+NANO_HELP = Juggernaut
+NANO_BUYZONE = You are not in a buyzone!
+NANO_BUY = You have bought a Juggernaut armor!
+NANO_NO = You don't have a Juggernaut!
+
+NANO_HTML_BASIC :
+<p>List of commands (all of them are console commands, to use them with say you need to add a / in front of them)</p>
+<p>Example: nanosuit (console) for say becomes /nanosuit</p>
+<p>1. nanosuit (the basic command) - activates the menu of the armor (if you have one) (it is best to bind this 
+
+command)<br />
+2. nanolowres -  low resource toggle, if you have lag it is best to toggle them on<br />
+3. nanobuy - buy the nanosuit<br />
+4. nanohelp - shows the help screen</p>
+:
+
+NANO_HTML_MODES :
+<p><strong>-= Maximum Strength =-</strong><br />
+- jump higher<br />
+- melee attack critical damage<br />
+- throw players using the first melee attack</p>
+<p><strong>-= Maximum Armor =-</strong><br />
+- energy acts as shield<br />
+- smaller damage dealt to you</p>
+<p><strong>-= Maximum Speed =-</strong><br />
+- run faster</p>
+<p><strong>-= Cloak Mode=-</strong><br />
+- invisibility
+:
+
+NANO_HTML_ADVICE :
+</p></div></body></html>
+:
+
+NANO_HTML_CL_FIRE :
+ - if you shoot any weapon the energy will be set to 0<br />
+:
+
+NANO_HTML_CL_NADE :
+ - if you throw a grenade the energy will be set to 0<br />
+:
+
+NANO_HTML_CL_KNIFE :
+ - if you use the knife the energy will be set to 0<br />
+:

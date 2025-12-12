@@ -1,9 +1,0 @@
-Number of CPU player [0]
-
-play map de_dust2 only
-
-
-set_level "name" "50" 
-
-
-enjoy :)

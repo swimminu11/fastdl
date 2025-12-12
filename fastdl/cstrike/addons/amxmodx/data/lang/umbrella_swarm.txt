@@ -1,8 +1,0 @@
-[en]
-
-Zombie_team_win = Zombei laimejo!
-Human_team_win = Zmones laimejo!
-No_one_team_win = Lygiosios
-HP_HUD = Gyvybes: %i Clase: %s
-Tank_hud = Gyvybes: %i Clase: %s
-Umbrella_hud = Gyvybes: %i

@@ -1,0 +1,69 @@
+L 12/12/2025 - 11:00:33: Start of error session.
+L 12/12/2025 - 11:00:33: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251212.log")
+L 12/12/2025 - 11:00:33: Function "native_set_user_save" was not found
+L 12/12/2025 - 11:00:33: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:33: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:33: Function "__fm_set_model" was not found
+L 12/12/2025 - 11:00:33: [AMXX] Run time error 19 (plugin "umbrella_swarm6.0.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:33: [AMXX] Run time error -1 (plugin "umbrella_swarm6.0.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:33: Function "native_load_power_one" was not found
+L 12/12/2025 - 11:00:33: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:33: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:34: Function "Get_LightSaber" was not found
+L 12/12/2025 - 11:00:34: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:34: Function "Get_Thanatos9" was not found
+L 12/12/2025 - 11:00:34: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:34: Function "get_m85tiger" was not found
+L 12/12/2025 - 11:00:34: [AMXX] Run time error 19 (plugin "buffm95tig.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:44: Start of error session.
+L 12/12/2025 - 11:00:44: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251212.log")
+L 12/12/2025 - 11:00:44: Function "native_set_user_save" was not found
+L 12/12/2025 - 11:00:44: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:44: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: Function "__fm_set_model" was not found
+L 12/12/2025 - 11:00:44: [AMXX] Run time error 19 (plugin "umbrella_swarm6.0.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:44: [AMXX] Run time error -1 (plugin "umbrella_swarm6.0.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: Function "native_load_power_one" was not found
+L 12/12/2025 - 11:00:44: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:44: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: Function "Get_LightSaber" was not found
+L 12/12/2025 - 11:00:44: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:44: Function "Get_Thanatos9" was not found
+L 12/12/2025 - 11:00:44: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 11:00:44: Function "get_m85tiger" was not found
+L 12/12/2025 - 11:00:44: [AMXX] Run time error 19 (plugin "buffm95tig.amxx") - debug not enabled!
+L 12/12/2025 - 11:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 15:48:30: Start of error session.
+L 12/12/2025 - 15:48:30: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251212.log")
+L 12/12/2025 - 15:48:30: Function "native_set_user_save" was not found
+L 12/12/2025 - 15:48:30: [AMXX] Run time error 19 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 15:48:30: [AMXX] Run time error -1 (plugin "gunxpmod.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:30: Function "__fm_set_model" was not found
+L 12/12/2025 - 15:48:30: [AMXX] Run time error 19 (plugin "umbrella_swarm6.0.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 15:48:30: [AMXX] Run time error -1 (plugin "umbrella_swarm6.0.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:30: Function "native_load_power_one" was not found
+L 12/12/2025 - 15:48:30: [AMXX] Run time error 19 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 15:48:30: [AMXX] Run time error -1 (plugin "gunxpmod_powers.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:31: Function "Get_LightSaber" was not found
+L 12/12/2025 - 15:48:31: [AMXX] Run time error 19 (plugin "CSO_LightSaber.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 15:48:31: Function "Get_Thanatos9" was not found
+L 12/12/2025 - 15:48:31: [AMXX] Run time error 19 (plugin "CSO_Thanatos9.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/12/2025 - 15:48:31: Function "get_m85tiger" was not found
+L 12/12/2025 - 15:48:31: [AMXX] Run time error 19 (plugin "buffm95tig.amxx") - debug not enabled!
+L 12/12/2025 - 15:48:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

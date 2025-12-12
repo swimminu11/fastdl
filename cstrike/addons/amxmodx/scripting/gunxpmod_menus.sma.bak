@@ -1,0 +1,311 @@
+#include <amxmodx>
+#include <amxmisc>
+#include <cstrike>
+#include <csx>
+#include <engine>
+#include <fakemeta>
+#include <fakemeta_util>
+#include <hamsandwich>
+#include <gunxpmod>
+
+new PlayerPrestige[33]
+new PrestigeFile[33]
+
+public plugin_init() {
+	register_plugin("Prestige Shop", "1.1", "DeXTeR")
+	
+	new DataDir[64]
+	get_datadir(DataDir, 63)
+	format(PrestigeFile, 127, "%s/Prestige.dat", DataDir)
+	
+	register_clcmd("set_prestige", "set_prestige", ADMIN_RCON, "<name> <amount>")
+
+	register_clcmd("say /prs", "CmdPrestigeMenu");
+	register_clcmd("say /prestige", "CmdPrestigeMenu");
+	
+	register_clcmd("say prs", "CmdPrestigeMenu");
+	register_clcmd("say prestige", "CmdPrestigeMenu");
+    
+	set_task(0.5, "TASK_HUD", _, _, _, "b")
+}
+
+public client_putinserver(id) {
+	LoadPrestige(id)
+}
+
+public client_connect(id) {
+	LoadPrestige(id)
+}
+
+public client_disconnect(id) {
+	SavePrestige(id)
+}
+
+public plugin_natives() {
+	register_native("set_user_prestige", "set_user_prestige", 1)
+	register_native("get_user_prestige", "get_user_prestige", 1)
+}
+
+public set_user_prestige(id, prestige) {
+	if(is_user_connected(id)) {
+		PlayerPrestige[id] = prestige
+		SavePrestige(id)
+	}
+}
+
+public get_user_prestige(id) {
+	return is_user_connected(id) ? PlayerPrestige[id] : 0
+}
+
+public CmdPrestigeMenu(id) {
+	new Title[128], Menu
+	formatex(Title, sizeof(Title)-1, "\r[\yGunXP\r] \wPrestige Shop^n\yAvailable XP: \r%d", get_user_xp(id))
+	Menu = menu_create(Title, "CmdBuyPrestige")
+	
+	if(get_user_xp(id) >= 150000) 
+		menu_additem(Menu, "\w1 Prestige - \r150000\y XP", "1", 0)
+	else 
+		menu_additem(Menu, "\d1 Prestige - \r150000 XP", "1", 0)
+		
+	if(get_user_xp(id) >= 450000)
+		menu_additem(Menu, "\w3 Prestige - \r450000\y XP", "2", 0)
+	else 
+		menu_additem(Menu, "\d3 Prestige - \r450000 XP", "2", 0)
+		
+	if(get_user_xp(id) >= 750000) 
+		menu_additem(Menu, "\w5 Prestige - \r750000\y XP", "3", 0)
+	else 
+		menu_additem(Menu, "\d5 Prestige - \r750000 XP", "3", 0)		
+
+	if(get_user_xp(id) >= 1500000) 
+		menu_additem(Menu, "\w10 Prestige - \r1500000\y XP", "4", 0)
+	else 
+		menu_additem(Menu, "\d10 Prestige - \r1500000 XP", "4", 0)
+		
+	menu_setprop(Menu, MPROP_EXIT, MEXIT_ALL);
+	menu_display(id, Menu, 0);
+}
+
+public CmdBuyPrestige(id, menu, item) {
+	if(item == MENU_EXIT) {
+		menu_destroy(menu);
+		return PLUGIN_HANDLED;
+	}
+	new Data[6], Name[64];
+	new Access, CallBack;
+	menu_item_getinfo(menu, item, Access, Data,5, Name, 63, CallBack);
+	new Key = str_to_num(Data);
+	switch(Key) {
+		case 1: {
+			new PrestigeCost = get_user_xp(id) - 150000
+			if(PrestigeCost < 0) 
+				ColorChat(id, "!t[GunXP]!y You dont have enought !tXP!n to buy!g 1 prestige!g !")
+			else {
+				set_user_prestige(id, get_user_prestige(id) + 1) 
+				set_user_xp(id, PrestigeCost)
+				ColorChat(id, "!t[GunXP]!1 You buyed !g1 prestige !")
+			}
+		}
+		case 2: {
+			new PrestigeCost = get_user_xp(id) - 450000
+			if(PrestigeCost < 0) 
+				ColorChat(id, "!t[GunXP]!y You dont have enought !tXP!n to buy!g 3 prestige!g !")
+			else {
+				set_user_prestige(id, get_user_prestige(id) + 3) 
+				set_user_xp(id, PrestigeCost)
+				ColorChat(id, "!t[GunXP]!1 You buyed !g3 prestige !")
+			}
+		}
+		case 3: {
+			new PrestigeCost = get_user_xp(id) - 750000
+			if(PrestigeCost < 0) 
+				ColorChat(id, "!t[GunXP]!y You dont have enought !tXP!n to buy!g 5 prestige!g !")
+			else {
+				set_user_prestige(id, get_user_prestige(id) + 5) 
+				set_user_xp(id, PrestigeCost)
+				ColorChat(id, "!t[GunXP]!1 You buyed !g5 prestige !")
+			}
+		}
+		case 4: {
+			new PrestigeCost = get_user_xp(id) - 1500000
+			if(PrestigeCost < 0) 
+				ColorChat(id, "!t[GunXP]!y You dont have enought !tXP!n to buy!g 10 prestige!g !")
+			else {
+				set_user_prestige(id, get_user_prestige(id) + 10) 
+				set_user_xp(id, PrestigeCost)
+				ColorChat(id, "!t[GunXP]!1 You buyed !g10 prestige !")
+			}
+		}
+	}
+	menu_destroy(menu)
+	return PLUGIN_HANDLED
+}
+
+// GunXP Hud
+public TASK_HUD() {
+	static id
+	for(id = 1; id <= get_maxplayers(); id++) {
+		if(is_user_alive(id) && is_user_connected(id)) {
+			new Message[128];
+			formatex(Message,sizeof(Message)-1,"[XP : %d / 150000]^n[Level : %d]^n[Prestige : %d]", get_user_xp(id), get_user_level(id), get_user_prestige(id));
+			HudMessage(id, Message, 255, 0, 0, 0.02, 0.20, 0, 0.0, 0.3, 0.0, 0.0)
+			
+			new Players[32], Num, Spectator;
+			get_players(Players, Num, "bch");
+			for(new index = 0; index < Num; ++index) {
+				Spectator = Players[index];		
+				if(pev(Spectator, pev_iuser2) == id && is_user_connected(Spectator) && id != Spectator) {
+					formatex(Message,sizeof(Message)-1,"XP: %d^nLevel: %d^nPrestige: %d", get_user_xp(id), get_user_level(id), get_user_prestige(id));
+					HudMessage(Spectator, Message, 255, 0, 0, 0.02, 0.20, 0, 0.0, 0.3, 0.0, 0.0)
+				}				
+			}
+		}
+	}
+}
+
+// Save Prestige
+public SavePrestige(id) {
+	if(!is_user_connected(id)) return 1;
+	new Name[32];
+	get_user_name(id, Name, 31);
+	
+	static Data[1024]
+	formatex(Data, sizeof(Data) - 1, "^"%i^"", PlayerPrestige[id])
+	
+	new Save[512]
+	format(Save, 511, "^"%s^" %s", Name, Data)
+	
+	new Line[128], Linie, IsPlayer = false, Arg1[32]
+	
+	new FileOpen = fopen(PrestigeFile, "rt")
+	while(!feof(FileOpen)) {
+		fgets(FileOpen, Line, 127)
+		trim(Line)
+		
+		parse(Line, Arg1, 31)
+		
+		if (equali(Arg1, Name)) {
+			write_file(PrestigeFile, Save, Linie)
+			IsPlayer = true
+			break
+		}
+		
+		Linie++
+	}
+	fclose(FileOpen)
+	if (!IsPlayer) {
+		write_file(PrestigeFile, Save, -1)
+	}
+	return PLUGIN_HANDLED
+}
+
+// Give Prestige
+public set_prestige (id, level, cid) {
+
+    if(!cmd_access(id, level, cid, 3))
+        return PLUGIN_HANDLED;
+
+    new arg[32], arg2[32];
+    read_argv(1, arg, 32);
+    read_argv(2, arg2, 31);
+    
+    new player = cmd_target(id,arg,2);
+    if(!player) return PLUGIN_HANDLED;
+    
+    new prestigeamount = str_to_num(arg2);
+    set_user_prestige(player, get_user_prestige(player) + prestigeamount);
+    
+    if( prestigeamount < 0 )
+    {
+        console_print(id, "You can't give player prestige lower that 0");
+        return PLUGIN_HANDLED;
+    }
+    
+    new player_name[32], admin_name[32];
+    get_user_name(player, player_name, 31);
+    get_user_name(id, admin_name, 31);
+    
+    switch(get_cvar_num("amx_show_activity"))
+    {
+        case 2: ColorChat(id, "!gADMIN !y%s: give !t%s %i !gPrestige", admin_name, player_name, prestigeamount);
+        case 1: ColorChat(id, "!gADMIN: !ygive !t%s %i !gPrestige", player_name, prestigeamount);
+    }
+    
+    return PLUGIN_HANDLED;
+}
+
+// Load Prestige
+public LoadPrestige(id) {
+	if(!is_user_connected(id)) 	return 1;
+	new Name[32];
+	get_user_name(id, Name, 31);
+	
+	new Line[128], Arg1[32], Arg2[32];
+	
+	new FileOpen = fopen(PrestigeFile, "rt")
+	while(!feof(FileOpen)) {
+		fgets(FileOpen, Line, 127)
+		trim(Line)
+		
+		parse(Line, Arg1, 31, Arg2, 31)
+		
+		if (equali(Arg1, Name)) {
+			PlayerPrestige[id] = str_to_num(Arg2)
+			break
+		}
+	}
+	fclose(FileOpen)
+	return PLUGIN_HANDLED
+}
+
+#define clamp_byte(%1)       ( clamp( %1, 0, 255 ) )
+#define pack_color(%1,%2,%3) ( %3 + ( %2 << 8 ) + ( %1 << 16 ) )
+
+stock HudMessage(const id, const message[], red = 0, green = 160, blue = 0, Float:x = -1.0, Float:y = 0.65, effects = 2, Float:fxtime = 0.01, Float:holdtime = 3.0, Float:fadeintime = 0.01, Float:fadeouttime = 0.01) {
+	new count = 1, players[32];
+	
+	if(id) players[0] = id;
+	else get_players(players, count, "ch"); {
+		for(new i = 0; i < count; i++) {
+			if(is_user_connected(players[i])) {	
+				new color = pack_color(clamp_byte(red), clamp_byte(green), clamp_byte(blue))
+				
+				message_begin(MSG_ONE_UNRELIABLE, SVC_DIRECTOR, _, players[i]);
+				write_byte(strlen(message) + 31);
+				write_byte(DRC_CMD_MESSAGE);
+				write_byte(effects);
+				write_long(color);
+				write_long(_:x);
+				write_long(_:y);
+				write_long(_:fadeintime);
+				write_long(_:fadeouttime);
+				write_long(_:holdtime);
+				write_long(_:fxtime);
+				write_string(message);
+				message_end();
+			}
+		}
+	}
+}
+
+stock ColorChat(const id, const input[], any:...) {
+	new count = 1, players[32];
+	static msg[191];
+	vformat(msg, 190, input, 3);
+	
+	replace_all(msg, 190, "!g", "^4");
+	replace_all(msg, 190, "!y", "^1");
+	replace_all(msg, 190, "!t", "^3");
+	
+	if(id) players[0] = id;
+	else get_players(players, count, "ch"); {
+		for(new i = 0; i < count; i++) {
+			if(is_user_connected(players[i])) {
+				message_begin(MSG_ONE_UNRELIABLE, get_user_msgid("SayText"), _, players[i]);
+				write_byte(players[i]);
+				write_string(msg);
+				message_end();
+			}
+		}
+	} 
+}
